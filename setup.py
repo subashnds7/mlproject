@@ -23,7 +23,7 @@ version='0.0.1',
 author='Subash'
 author_email='subashnds7@gmail.com',
 packages=find_packages(),
-install=requires=get_requirements('requirement.txt')
+install=requires=get_requirements('requirements.txt')
 
 
 
